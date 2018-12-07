@@ -1,0 +1,9 @@
+*/*.download
+*/*.log
+*/*.tar.gz
+*/build/
+*/src/
+openssl/bin/
+openssl/build-libssl.sh
+pjsip-ios.build/
+Release-iphoneos/

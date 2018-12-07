@@ -1,0 +1,6 @@
+HEADER_SEARCH_PATHS = $(inherited) $(PROJECT_DIR)/build/pjproject/include $(PROJECT_DIR)/build/opus/include/opus
+
+GCC_PREPROCESSOR_DEFINITIONS_NOT_USED_IN_PRECOMPS = PJ_AUTOCONF PJMEDIA_HAS_G729_CODEC PJMEDIA_HAS_OPUS_CODEC
+
+// required to build g729 codec without errors
+OTHER_CFLAGS = -Wno-implicit-function-declaration

@@ -15,6 +15,31 @@
 		B5447FF521B95C4500FBBCC9 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = B5447FF421B95C4500FBBCC9 /* main.m */; };
 		B5447FFF21B95C4500FBBCC9 /* ShahbazTestSIPTests.m in Sources */ = {isa = PBXBuildFile; fileRef = B5447FFE21B95C4500FBBCC9 /* ShahbazTestSIPTests.m */; };
 		B544800A21B95C4500FBBCC9 /* ShahbazTestSIPUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = B544800921B95C4500FBBCC9 /* ShahbazTestSIPUITests.m */; };
+		B5449BB221B95FB800FBBCC9 /* libilbccodec.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B5449B9F21B95FB800FBBCC9 /* libilbccodec.a */; };
+		B5449BB321B95FB800FBBCC9 /* libpjnath.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B5449BA021B95FB800FBBCC9 /* libpjnath.a */; };
+		B5449BB421B95FB800FBBCC9 /* libpjmedia.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B5449BA121B95FB800FBBCC9 /* libpjmedia.a */; };
+		B5449BB521B95FB800FBBCC9 /* libpjlib-util.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B5449BA221B95FB800FBBCC9 /* libpjlib-util.a */; };
+		B5449BB621B95FB800FBBCC9 /* libpj.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B5449BA321B95FB800FBBCC9 /* libpj.a */; };
+		B5449BB721B95FB800FBBCC9 /* libpjmedia-audiodev.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B5449BA421B95FB800FBBCC9 /* libpjmedia-audiodev.a */; };
+		B5449BB821B95FB800FBBCC9 /* libpjmedia-codec.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B5449BA521B95FB800FBBCC9 /* libpjmedia-codec.a */; };
+		B5449BB921B95FB800FBBCC9 /* libpjsip-ua.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B5449BA621B95FB800FBBCC9 /* libpjsip-ua.a */; };
+		B5449BBA21B95FB800FBBCC9 /* libspeex.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B5449BA721B95FB800FBBCC9 /* libspeex.a */; };
+		B5449BBB21B95FB800FBBCC9 /* libwebrtc.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B5449BA821B95FB800FBBCC9 /* libwebrtc.a */; };
+		B5449BBC21B95FB800FBBCC9 /* libpjsip-simple.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B5449BA921B95FB800FBBCC9 /* libpjsip-simple.a */; };
+		B5449BBD21B95FB800FBBCC9 /* libgsmcodec.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B5449BAA21B95FB800FBBCC9 /* libgsmcodec.a */; };
+		B5449BBE21B95FB800FBBCC9 /* libsrtp.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B5449BAB21B95FB800FBBCC9 /* libsrtp.a */; };
+		B5449BBF21B95FB800FBBCC9 /* libg7221codec.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B5449BAC21B95FB800FBBCC9 /* libg7221codec.a */; };
+		B5449BC021B95FB800FBBCC9 /* libresample.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B5449BAD21B95FB800FBBCC9 /* libresample.a */; };
+		B5449BC121B95FB800FBBCC9 /* libpjsip.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B5449BAE21B95FB800FBBCC9 /* libpjsip.a */; };
+		B5449BC221B95FB800FBBCC9 /* libpjsua2.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B5449BAF21B95FB800FBBCC9 /* libpjsua2.a */; };
+		B5449BC321B95FB800FBBCC9 /* libpjsua.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B5449BB021B95FB800FBBCC9 /* libpjsua.a */; };
+		B5449BC421B95FB800FBBCC9 /* libpjmedia-videodev.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B5449BB121B95FB800FBBCC9 /* libpjmedia-videodev.a */; };
+		B5449BCE21BA506F00FBBCC9 /* SIPClient.m in Sources */ = {isa = PBXBuildFile; fileRef = B5449BCD21BA506F00FBBCC9 /* SIPClient.m */; };
+		B5449BD121BA512200FBBCC9 /* SIPCall.m in Sources */ = {isa = PBXBuildFile; fileRef = B5449BD021BA512200FBBCC9 /* SIPCall.m */; };
+		B5449BD521BA5A8C00FBBCC9 /* libpjsip-ios.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B54490D821B95CB000FBBCC9 /* libpjsip-ios.a */; };
+		B5449BD821BA5B1500FBBCC9 /* libssl.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B5449BD621BA5B1400FBBCC9 /* libssl.a */; };
+		B5449BD921BA5B1500FBBCC9 /* libcrypto.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B5449BD721BA5B1400FBBCC9 /* libcrypto.a */; };
+		B5449BDB21BA5B3000FBBCC9 /* libopus.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B5449BDA21BA5B3000FBBCC9 /* libopus.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -31,6 +56,20 @@
 			proxyType = 1;
 			remoteGlobalIDString = B5447FE121B95C4400FBBCC9;
 			remoteInfo = ShahbazTestSIP;
+		};
+		B54490D721B95CB000FBBCC9 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = B544805B21B95CA900FBBCC9 /* pjsip-ios.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 01FE4EB11C4D23100016CD87;
+			remoteInfo = "pjsip-ios";
+		};
+		B5449BD221BA59E600FBBCC9 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = B544805B21B95CA900FBBCC9 /* pjsip-ios.xcodeproj */;
+			proxyType = 1;
+			remoteGlobalIDString = 01FE4EB01C4D23100016CD87;
+			remoteInfo = "pjsip-ios";
 		};
 /* End PBXContainerItemProxy section */
 
@@ -51,6 +90,33 @@
 		B544800521B95C4500FBBCC9 /* ShahbazTestSIPUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ShahbazTestSIPUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B544800921B95C4500FBBCC9 /* ShahbazTestSIPUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ShahbazTestSIPUITests.m; sourceTree = "<group>"; };
 		B544800B21B95C4500FBBCC9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B544805B21B95CA900FBBCC9 /* pjsip-ios.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = "pjsip-ios.xcodeproj"; sourceTree = "<group>"; };
+		B5449B9F21B95FB800FBBCC9 /* libilbccodec.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libilbccodec.a; path = build/pjproject/lib/libilbccodec.a; sourceTree = "<group>"; };
+		B5449BA021B95FB800FBBCC9 /* libpjnath.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libpjnath.a; path = build/pjproject/lib/libpjnath.a; sourceTree = "<group>"; };
+		B5449BA121B95FB800FBBCC9 /* libpjmedia.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libpjmedia.a; path = build/pjproject/lib/libpjmedia.a; sourceTree = "<group>"; };
+		B5449BA221B95FB800FBBCC9 /* libpjlib-util.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = "libpjlib-util.a"; path = "build/pjproject/lib/libpjlib-util.a"; sourceTree = "<group>"; };
+		B5449BA321B95FB800FBBCC9 /* libpj.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libpj.a; path = build/pjproject/lib/libpj.a; sourceTree = "<group>"; };
+		B5449BA421B95FB800FBBCC9 /* libpjmedia-audiodev.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = "libpjmedia-audiodev.a"; path = "build/pjproject/lib/libpjmedia-audiodev.a"; sourceTree = "<group>"; };
+		B5449BA521B95FB800FBBCC9 /* libpjmedia-codec.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = "libpjmedia-codec.a"; path = "build/pjproject/lib/libpjmedia-codec.a"; sourceTree = "<group>"; };
+		B5449BA621B95FB800FBBCC9 /* libpjsip-ua.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = "libpjsip-ua.a"; path = "build/pjproject/lib/libpjsip-ua.a"; sourceTree = "<group>"; };
+		B5449BA721B95FB800FBBCC9 /* libspeex.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libspeex.a; path = build/pjproject/lib/libspeex.a; sourceTree = "<group>"; };
+		B5449BA821B95FB800FBBCC9 /* libwebrtc.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libwebrtc.a; path = build/pjproject/lib/libwebrtc.a; sourceTree = "<group>"; };
+		B5449BA921B95FB800FBBCC9 /* libpjsip-simple.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = "libpjsip-simple.a"; path = "build/pjproject/lib/libpjsip-simple.a"; sourceTree = "<group>"; };
+		B5449BAA21B95FB800FBBCC9 /* libgsmcodec.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libgsmcodec.a; path = build/pjproject/lib/libgsmcodec.a; sourceTree = "<group>"; };
+		B5449BAB21B95FB800FBBCC9 /* libsrtp.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libsrtp.a; path = build/pjproject/lib/libsrtp.a; sourceTree = "<group>"; };
+		B5449BAC21B95FB800FBBCC9 /* libg7221codec.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libg7221codec.a; path = build/pjproject/lib/libg7221codec.a; sourceTree = "<group>"; };
+		B5449BAD21B95FB800FBBCC9 /* libresample.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libresample.a; path = build/pjproject/lib/libresample.a; sourceTree = "<group>"; };
+		B5449BAE21B95FB800FBBCC9 /* libpjsip.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libpjsip.a; path = build/pjproject/lib/libpjsip.a; sourceTree = "<group>"; };
+		B5449BAF21B95FB800FBBCC9 /* libpjsua2.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libpjsua2.a; path = build/pjproject/lib/libpjsua2.a; sourceTree = "<group>"; };
+		B5449BB021B95FB800FBBCC9 /* libpjsua.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libpjsua.a; path = build/pjproject/lib/libpjsua.a; sourceTree = "<group>"; };
+		B5449BB121B95FB800FBBCC9 /* libpjmedia-videodev.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = "libpjmedia-videodev.a"; path = "build/pjproject/lib/libpjmedia-videodev.a"; sourceTree = "<group>"; };
+		B5449BCC21BA506F00FBBCC9 /* SIPClient.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SIPClient.h; sourceTree = "<group>"; };
+		B5449BCD21BA506F00FBBCC9 /* SIPClient.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SIPClient.m; sourceTree = "<group>"; };
+		B5449BCF21BA512200FBBCC9 /* SIPCall.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SIPCall.h; sourceTree = "<group>"; };
+		B5449BD021BA512200FBBCC9 /* SIPCall.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SIPCall.m; sourceTree = "<group>"; };
+		B5449BD621BA5B1400FBBCC9 /* libssl.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libssl.a; path = build/openssl/lib/libssl.a; sourceTree = "<group>"; };
+		B5449BD721BA5B1400FBBCC9 /* libcrypto.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libcrypto.a; path = build/openssl/lib/libcrypto.a; sourceTree = "<group>"; };
+		B5449BDA21BA5B3000FBBCC9 /* libopus.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libopus.a; path = build/opus/lib/libopus.a; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +124,29 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B5449BD521BA5A8C00FBBCC9 /* libpjsip-ios.a in Frameworks */,
+				B5449BC321B95FB800FBBCC9 /* libpjsua.a in Frameworks */,
+				B5449BD821BA5B1500FBBCC9 /* libssl.a in Frameworks */,
+				B5449BB621B95FB800FBBCC9 /* libpj.a in Frameworks */,
+				B5449BC421B95FB800FBBCC9 /* libpjmedia-videodev.a in Frameworks */,
+				B5449BB721B95FB800FBBCC9 /* libpjmedia-audiodev.a in Frameworks */,
+				B5449BBC21B95FB800FBBCC9 /* libpjsip-simple.a in Frameworks */,
+				B5449BBD21B95FB800FBBCC9 /* libgsmcodec.a in Frameworks */,
+				B5449BB521B95FB800FBBCC9 /* libpjlib-util.a in Frameworks */,
+				B5449BD921BA5B1500FBBCC9 /* libcrypto.a in Frameworks */,
+				B5449BB221B95FB800FBBCC9 /* libilbccodec.a in Frameworks */,
+				B5449BDB21BA5B3000FBBCC9 /* libopus.a in Frameworks */,
+				B5449BC221B95FB800FBBCC9 /* libpjsua2.a in Frameworks */,
+				B5449BBA21B95FB800FBBCC9 /* libspeex.a in Frameworks */,
+				B5449BB321B95FB800FBBCC9 /* libpjnath.a in Frameworks */,
+				B5449BB921B95FB800FBBCC9 /* libpjsip-ua.a in Frameworks */,
+				B5449BC121B95FB800FBBCC9 /* libpjsip.a in Frameworks */,
+				B5449BC021B95FB800FBBCC9 /* libresample.a in Frameworks */,
+				B5449BBF21B95FB800FBBCC9 /* libg7221codec.a in Frameworks */,
+				B5449BBE21B95FB800FBBCC9 /* libsrtp.a in Frameworks */,
+				B5449BB421B95FB800FBBCC9 /* libpjmedia.a in Frameworks */,
+				B5449BB821B95FB800FBBCC9 /* libpjmedia-codec.a in Frameworks */,
+				B5449BBB21B95FB800FBBCC9 /* libwebrtc.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -81,10 +170,13 @@
 		B5447FD921B95C4400FBBCC9 = {
 			isa = PBXGroup;
 			children = (
+				B544805521B95CA900FBBCC9 /* pjsip */,
+				B5449BCB21BA4FE300FBBCC9 /* Project */,
 				B5447FE421B95C4400FBBCC9 /* ShahbazTestSIP */,
 				B5447FFD21B95C4500FBBCC9 /* ShahbazTestSIPTests */,
 				B544800821B95C4500FBBCC9 /* ShahbazTestSIPUITests */,
 				B5447FE321B95C4400FBBCC9 /* Products */,
+				B5449BD421BA5A8C00FBBCC9 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -132,6 +224,78 @@
 			path = ShahbazTestSIPUITests;
 			sourceTree = "<group>";
 		};
+		B544805521B95CA900FBBCC9 /* pjsip */ = {
+			isa = PBXGroup;
+			children = (
+				B544805B21B95CA900FBBCC9 /* pjsip-ios.xcodeproj */,
+				B5449B9E21B95F6C00FBBCC9 /* Libraries */,
+			);
+			path = pjsip;
+			sourceTree = "<group>";
+		};
+		B544805C21B95CA900FBBCC9 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				B54490D821B95CB000FBBCC9 /* libpjsip-ios.a */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		B5449B9E21B95F6C00FBBCC9 /* Libraries */ = {
+			isa = PBXGroup;
+			children = (
+				B5449BDA21BA5B3000FBBCC9 /* libopus.a */,
+				B5449BD721BA5B1400FBBCC9 /* libcrypto.a */,
+				B5449BD621BA5B1400FBBCC9 /* libssl.a */,
+				B5449BAC21B95FB800FBBCC9 /* libg7221codec.a */,
+				B5449BAA21B95FB800FBBCC9 /* libgsmcodec.a */,
+				B5449B9F21B95FB800FBBCC9 /* libilbccodec.a */,
+				B5449BA321B95FB800FBBCC9 /* libpj.a */,
+				B5449BA221B95FB800FBBCC9 /* libpjlib-util.a */,
+				B5449BA421B95FB800FBBCC9 /* libpjmedia-audiodev.a */,
+				B5449BA521B95FB800FBBCC9 /* libpjmedia-codec.a */,
+				B5449BB121B95FB800FBBCC9 /* libpjmedia-videodev.a */,
+				B5449BA121B95FB800FBBCC9 /* libpjmedia.a */,
+				B5449BA021B95FB800FBBCC9 /* libpjnath.a */,
+				B5449BA921B95FB800FBBCC9 /* libpjsip-simple.a */,
+				B5449BA621B95FB800FBBCC9 /* libpjsip-ua.a */,
+				B5449BAE21B95FB800FBBCC9 /* libpjsip.a */,
+				B5449BB021B95FB800FBBCC9 /* libpjsua.a */,
+				B5449BAF21B95FB800FBBCC9 /* libpjsua2.a */,
+				B5449BAD21B95FB800FBBCC9 /* libresample.a */,
+				B5449BA721B95FB800FBBCC9 /* libspeex.a */,
+				B5449BAB21B95FB800FBBCC9 /* libsrtp.a */,
+				B5449BA821B95FB800FBBCC9 /* libwebrtc.a */,
+			);
+			name = Libraries;
+			sourceTree = "<group>";
+		};
+		B5449BC821BA4F2D00FBBCC9 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				B5449BCC21BA506F00FBBCC9 /* SIPClient.h */,
+				B5449BCD21BA506F00FBBCC9 /* SIPClient.m */,
+				B5449BCF21BA512200FBBCC9 /* SIPCall.h */,
+				B5449BD021BA512200FBBCC9 /* SIPCall.m */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		B5449BCB21BA4FE300FBBCC9 /* Project */ = {
+			isa = PBXGroup;
+			children = (
+				B5449BC821BA4F2D00FBBCC9 /* Classes */,
+			);
+			path = Project;
+			sourceTree = "<group>";
+		};
+		B5449BD421BA5A8C00FBBCC9 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -146,6 +310,7 @@
 			buildRules = (
 			);
 			dependencies = (
+				B5449BD321BA59E600FBBCC9 /* PBXTargetDependency */,
 			);
 			name = ShahbazTestSIP;
 			productName = ShahbazTestSIP;
@@ -221,6 +386,12 @@
 			mainGroup = B5447FD921B95C4400FBBCC9;
 			productRefGroup = B5447FE321B95C4400FBBCC9 /* Products */;
 			projectDirPath = "";
+			projectReferences = (
+				{
+					ProductGroup = B544805C21B95CA900FBBCC9 /* Products */;
+					ProjectRef = B544805B21B95CA900FBBCC9 /* pjsip-ios.xcodeproj */;
+				},
+			);
 			projectRoot = "";
 			targets = (
 				B5447FE121B95C4400FBBCC9 /* ShahbazTestSIP */,
@@ -229,6 +400,16 @@
 			);
 		};
 /* End PBXProject section */
+
+/* Begin PBXReferenceProxy section */
+		B54490D821B95CB000FBBCC9 /* libpjsip-ios.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = "libpjsip-ios.a";
+			remoteRef = B54490D721B95CB000FBBCC9 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+/* End PBXReferenceProxy section */
 
 /* Begin PBXResourcesBuildPhase section */
 		B5447FE021B95C4400FBBCC9 /* Resources */ = {
@@ -263,6 +444,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				B5447FEA21B95C4400FBBCC9 /* ViewController.m in Sources */,
+				B5449BCE21BA506F00FBBCC9 /* SIPClient.m in Sources */,
+				B5449BD121BA512200FBBCC9 /* SIPCall.m in Sources */,
 				B5447FF521B95C4500FBBCC9 /* main.m in Sources */,
 				B5447FE721B95C4400FBBCC9 /* AppDelegate.m in Sources */,
 			);
@@ -296,6 +479,11 @@
 			isa = PBXTargetDependency;
 			target = B5447FE121B95C4400FBBCC9 /* ShahbazTestSIP */;
 			targetProxy = B544800621B95C4500FBBCC9 /* PBXContainerItemProxy */;
+		};
+		B5449BD321BA59E600FBBCC9 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = "pjsip-ios";
+			targetProxy = B5449BD221BA59E600FBBCC9 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
@@ -435,14 +623,67 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_STYLE = Automatic;
+				CODE_SIGN_STYLE = Manual;
+				DEVELOPMENT_TEAM = "";
+				HEADER_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(SDKROOT)/usr/include/libxml2",
+					"$(PROJECT_DIR)/pjsip/build/pjproject/include",
+					"\"$(PROJECT_DIR)/pjsip/pj_extras\"",
+					"\"$(PROJECT_DIR)/pjsip/pjsip_talkhome\"",
+				);
 				INFOPLIST_FILE = ShahbazTestSIP/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/pjsip/build/opus/lib",
+					"$(PROJECT_DIR)/pjsip/build/pjproject/lib",
+					"$(PROJECT_DIR)/pjsip/build/pjproject/src/pjmedia/lib-i386",
+					"$(PROJECT_DIR)/pjsip/build/pjproject/src/pjmedia/lib-armv7",
+					"$(PROJECT_DIR)/pjsip/build/pjproject/src/pjmedia/lib",
+					"$(PROJECT_DIR)/pjsip/build/pjproject/src/pjmedia/lib-arm64",
+					"$(PROJECT_DIR)/pjsip/build/pjproject/src/pjmedia/lib-x86_64",
+					"$(PROJECT_DIR)/pjsip/build/pjproject/src/pjmedia/lib-armv7s",
+					"$(PROJECT_DIR)/pjsip/build/pjproject/src/pjsip/lib-i386",
+					"$(PROJECT_DIR)/pjsip/build/pjproject/src/pjsip/lib-armv7",
+					"$(PROJECT_DIR)/pjsip/build/pjproject/src/pjsip/lib",
+					"$(PROJECT_DIR)/pjsip/build/pjproject/src/pjsip/lib-arm64",
+					"$(PROJECT_DIR)/pjsip/build/pjproject/src/pjsip/lib-x86_64",
+					"$(PROJECT_DIR)/pjsip/build/pjproject/src/pjsip/lib-armv7s",
+					"$(PROJECT_DIR)/pjsip/build/pjproject/src/pjlib/lib-i386",
+					"$(PROJECT_DIR)/pjsip/build/pjproject/src/pjlib/lib-armv7",
+					"$(PROJECT_DIR)/pjsip/build/pjproject/src/pjlib/lib",
+					"$(PROJECT_DIR)/pjsip/build/pjproject/src/pjlib/lib-arm64",
+					"$(PROJECT_DIR)/pjsip/build/pjproject/src/pjlib/lib-x86_64",
+					"$(PROJECT_DIR)/pjsip/build/pjproject/src/pjlib/lib-armv7s",
+					"$(PROJECT_DIR)/pjsip/build/pjproject/src/pjlib-util/lib-i386",
+					"$(PROJECT_DIR)/pjsip/build/pjproject/src/pjlib-util/lib-armv7",
+					"$(PROJECT_DIR)/pjsip/build/pjproject/src/pjlib-util/lib",
+					"$(PROJECT_DIR)/pjsip/build/pjproject/src/pjlib-util/lib-arm64",
+					"$(PROJECT_DIR)/pjsip/build/pjproject/src/pjlib-util/lib-x86_64",
+					"$(PROJECT_DIR)/pjsip/build/pjproject/src/pjlib-util/lib-armv7s",
+					"$(PROJECT_DIR)/pjsip/build/pjproject/src/third_party/lib-i386",
+					"$(PROJECT_DIR)/pjsip/build/pjproject/src/third_party/lib-armv7",
+					"$(PROJECT_DIR)/pjsip/build/pjproject/src/third_party/lib",
+					"$(PROJECT_DIR)/pjsip/build/pjproject/src/third_party/lib-arm64",
+					"$(PROJECT_DIR)/pjsip/build/pjproject/src/third_party/lib-x86_64",
+					"$(PROJECT_DIR)/pjsip/build/pjproject/src/third_party/lib-armv7s",
+					"$(PROJECT_DIR)/pjsip/build/pjproject/src/pjnath/lib-i386",
+					"$(PROJECT_DIR)/pjsip/build/pjproject/src/pjnath/lib-armv7",
+					"$(PROJECT_DIR)/pjsip/build/pjproject/src/pjnath/lib",
+					"$(PROJECT_DIR)/pjsip/build/pjproject/src/pjnath/lib-arm64",
+					"$(PROJECT_DIR)/pjsip/build/pjproject/src/pjnath/lib-x86_64",
+					"$(PROJECT_DIR)/pjsip/build/pjproject/src/pjnath/lib-armv7s",
+					"$(PROJECT_DIR)/pjsip/build/pjproject/src/pjsip-apps/src/pjsua/ios",
+					"$(PROJECT_DIR)/pjsip/build/openssl/lib",
+				);
+				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_BUNDLE_IDENTIFIER = com.softizo.ShahbazTestSIP;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -451,14 +692,67 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_STYLE = Automatic;
+				CODE_SIGN_STYLE = Manual;
+				DEVELOPMENT_TEAM = "";
+				HEADER_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(SDKROOT)/usr/include/libxml2",
+					"$(PROJECT_DIR)/pjsip/build/pjproject/include",
+					"\"$(PROJECT_DIR)/pjsip/pj_extras\"",
+					"\"$(PROJECT_DIR)/pjsip/pjsip_talkhome\"",
+				);
 				INFOPLIST_FILE = ShahbazTestSIP/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/pjsip/build/opus/lib",
+					"$(PROJECT_DIR)/pjsip/build/pjproject/lib",
+					"$(PROJECT_DIR)/pjsip/build/pjproject/src/pjmedia/lib-i386",
+					"$(PROJECT_DIR)/pjsip/build/pjproject/src/pjmedia/lib-armv7",
+					"$(PROJECT_DIR)/pjsip/build/pjproject/src/pjmedia/lib",
+					"$(PROJECT_DIR)/pjsip/build/pjproject/src/pjmedia/lib-arm64",
+					"$(PROJECT_DIR)/pjsip/build/pjproject/src/pjmedia/lib-x86_64",
+					"$(PROJECT_DIR)/pjsip/build/pjproject/src/pjmedia/lib-armv7s",
+					"$(PROJECT_DIR)/pjsip/build/pjproject/src/pjsip/lib-i386",
+					"$(PROJECT_DIR)/pjsip/build/pjproject/src/pjsip/lib-armv7",
+					"$(PROJECT_DIR)/pjsip/build/pjproject/src/pjsip/lib",
+					"$(PROJECT_DIR)/pjsip/build/pjproject/src/pjsip/lib-arm64",
+					"$(PROJECT_DIR)/pjsip/build/pjproject/src/pjsip/lib-x86_64",
+					"$(PROJECT_DIR)/pjsip/build/pjproject/src/pjsip/lib-armv7s",
+					"$(PROJECT_DIR)/pjsip/build/pjproject/src/pjlib/lib-i386",
+					"$(PROJECT_DIR)/pjsip/build/pjproject/src/pjlib/lib-armv7",
+					"$(PROJECT_DIR)/pjsip/build/pjproject/src/pjlib/lib",
+					"$(PROJECT_DIR)/pjsip/build/pjproject/src/pjlib/lib-arm64",
+					"$(PROJECT_DIR)/pjsip/build/pjproject/src/pjlib/lib-x86_64",
+					"$(PROJECT_DIR)/pjsip/build/pjproject/src/pjlib/lib-armv7s",
+					"$(PROJECT_DIR)/pjsip/build/pjproject/src/pjlib-util/lib-i386",
+					"$(PROJECT_DIR)/pjsip/build/pjproject/src/pjlib-util/lib-armv7",
+					"$(PROJECT_DIR)/pjsip/build/pjproject/src/pjlib-util/lib",
+					"$(PROJECT_DIR)/pjsip/build/pjproject/src/pjlib-util/lib-arm64",
+					"$(PROJECT_DIR)/pjsip/build/pjproject/src/pjlib-util/lib-x86_64",
+					"$(PROJECT_DIR)/pjsip/build/pjproject/src/pjlib-util/lib-armv7s",
+					"$(PROJECT_DIR)/pjsip/build/pjproject/src/third_party/lib-i386",
+					"$(PROJECT_DIR)/pjsip/build/pjproject/src/third_party/lib-armv7",
+					"$(PROJECT_DIR)/pjsip/build/pjproject/src/third_party/lib",
+					"$(PROJECT_DIR)/pjsip/build/pjproject/src/third_party/lib-arm64",
+					"$(PROJECT_DIR)/pjsip/build/pjproject/src/third_party/lib-x86_64",
+					"$(PROJECT_DIR)/pjsip/build/pjproject/src/third_party/lib-armv7s",
+					"$(PROJECT_DIR)/pjsip/build/pjproject/src/pjnath/lib-i386",
+					"$(PROJECT_DIR)/pjsip/build/pjproject/src/pjnath/lib-armv7",
+					"$(PROJECT_DIR)/pjsip/build/pjproject/src/pjnath/lib",
+					"$(PROJECT_DIR)/pjsip/build/pjproject/src/pjnath/lib-arm64",
+					"$(PROJECT_DIR)/pjsip/build/pjproject/src/pjnath/lib-x86_64",
+					"$(PROJECT_DIR)/pjsip/build/pjproject/src/pjnath/lib-armv7s",
+					"$(PROJECT_DIR)/pjsip/build/pjproject/src/pjsip-apps/src/pjsua/ios",
+					"$(PROJECT_DIR)/pjsip/build/openssl/lib",
+				);
+				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_BUNDLE_IDENTIFIER = com.softizo.ShahbazTestSIP;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
